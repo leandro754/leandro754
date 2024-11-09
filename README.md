@@ -1,3 +1,10 @@
+## ☕ Hello I'm leandro (レアンドロ)!
+* Passionate about: Vocaloid, Music, Rythm Games, AI, and Programming
+* Let's Connect: Add me on Discord "leandro754"
+* Languages: Spanish, English, and Japanese (日本語)
+* If you need help with any project or work, feel free to contact me! 
+
+
 | <img src="https://github.com/user-attachments/assets/1ac8a5ad-3bee-41a4-94cc-46cc1337741a" width="70" height="70"> | What I'm Learning?: | <img src="https://github.com/user-attachments/assets/7a87d8bd-f341-4e64-aa89-ea2d98235cca" width="70" height="70"> | <img src="https://github.com/user-attachments/assets/835137fa-a313-4962-a3ed-592074f522a5" width="70" height="70"> | <img src="https://github.com/user-attachments/assets/61821bf2-3a68-4d1e-999f-461eb1d4e71d" width="70" height="70"> | <img src="https://github.com/user-attachments/assets/268ba175-7ecd-4185-bf6c-1a02e799ad8c" width="53" height="70"> | <img src="https://github.com/user-attachments/assets/de642afa-23a2-44e9-94d8-1224e01c5584" width="70" hegiht="70"> |
 |---|---|---|---|---|---|---| 
 
