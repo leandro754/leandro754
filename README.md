@@ -1,6 +1,6 @@
 ## ☕ Hello I'm leandro (レアンドロ)!
 * Passionate about: Vocaloid, Music, Rythm Games, AI, and Programming
-* Let's Connect: Add me on Discord "leandro754"
+* Contact me!: Discord "leandro754"
 * Languages: Spanish, English, and Japanese (日本語)
 * If you need help with any project or work, feel free to contact me! 
 
