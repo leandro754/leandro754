@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Learning by building, experimenting and turning ideas into useful projects.</i>
+  <i>I don't always know what I'm doing, but the terminal looks cool...</i>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Currently focused on building practical skills through projects, experiments and
   <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-111827?style=for-the-badge&logo=raspberrypi&logoColor=A22846" />
   <img src="https://img.shields.io/badge/Proxmox-111827?style=for-the-badge&logo=proxmox&logoColor=E57000" />
-  <img src="https://img.shields.io/badge/Windows%2011-111827?style=for-the-badge&logo=windows11&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
@@ -94,7 +94,7 @@ Currently focused on building practical skills through projects, experiments and
   <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+ <img src="https://img.shields.io/badge/AI%20%26%20LLMs-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
 </p>
 
 ---
