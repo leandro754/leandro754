@@ -1,11 +1,11 @@
-<h1 align="center">☕ Hello, I'm Leandro / レアンドロ</h1>
+<h1 align="center">☕ Leandro / レアンドロ</h1>
 
 <p align="center">
-  <b>Computer Science student · AI explorer · automation & systems enthusiast</b>
+  <b>Computer Science student · Systems enthusiast · AI & automation explorer</b>
 </p>
 
 <p align="center">
-  <i>Learning by building, experimenting with technology and creating useful projects.</i>
+  <i>Learning by building, experimenting and turning ideas into useful projects.</i>
 </p>
 
 <p align="center">
@@ -13,34 +13,39 @@
 </p>
 
 <p align="center">
-  ✦ AI · Automation · Web Development · Linux · Scripting · Systems · 日本語 ✦
+  ✦ Linux · Web · Backend · AI · Automation · Homelab · 日本語 ✦
 </p>
 
 ---
 
 ## 🌸 About
 
-I'm currently learning and building projects around software development, automation, AI tools and computer systems.
+I like exploring technology from different angles: software, systems, automation, AI tools and creative projects.
 
-I enjoy exploring how technology works behind the scenes, experimenting with different tools and turning ideas into practical solutions.
+Currently focused on building practical skills through projects, experiments and real problem solving.
 
-My main areas of interest are:
+---
 
-- Artificial Intelligence and LLM-based workflows
-- Automation and scripting
-- Web development
-- Backend development and databases
-- Linux, terminals and systems
-- Troubleshooting across different environments
-- Self-hosted services and homelab experiments
-- Game modding and patching experiments
-- Creative technology
+## 🧭 Main interests
+
+<table>
+  <tr>
+    <td align="center"><b>🤖 AI & Automation</b><br>LLMs, scripting, workflows and useful tools</td>
+    <td align="center"><b>🖥️ Systems & Linux</b><br>OS, terminals, troubleshooting and homelab</td>
+    <td align="center"><b>🌐 Web & Backend</b><br>Apps, APIs, databases and services</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎮 Game Modding</b><br>Patching, compatibility and experiments</td>
+    <td align="center"><b>🎵 Creative Tech</b><br>Music, rhythm games and software ideas</td>
+    <td align="center"><b>🦀 Low-level Learning</b><br>C, C++ and Rust interests</td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech stack
 
-### Languages, frameworks and web
+### Languages & web
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
@@ -50,120 +55,82 @@ My main areas of interest are:
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=663399" />
 </p>
 
 ### Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
-### Systems, OS and tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Operating systems & platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Debian-111827?style=for-the-badge&logo=debian&logoColor=A81D33" />
   <img src="https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/Fedora-111827?style=for-the-badge&logo=fedora&logoColor=51A2DA" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-111827?style=for-the-badge&logo=linuxmint&logoColor=86BE43" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-111827?style=for-the-badge&logo=raspberrypi&logoColor=A22846" />
+  <img src="https://img.shields.io/badge/Proxmox-111827?style=for-the-badge&logo=proxmox&logoColor=E57000" />
   <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-### AI, automation and experimentation
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=zapier&logoColor=FF4A00" />
-  <img src="https://img.shields.io/badge/Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-### Exploring / interested in
+### Exploring
 
 <p>
   <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ## 📚 Currently learning
 
-- Python for automation, scripting and AI-related tools
-- Java and backend development fundamentals
-- JavaScript / TypeScript for modern web development
-- React and Node.js
-- PostgreSQL and relational databases
-- Git and GitHub workflows
-- Linux, Bash and system troubleshooting
-- Debian, Ubuntu and Raspberry Pi OS environments
-- AI / LLM workflows and API integrations
-- C / C++ fundamentals
-- Rust as a future systems programming language
-- Japanese / 日本語
+<p>
+  <img src="https://img.shields.io/badge/Backend-22272E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-22272E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-22272E?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Tools-22272E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rust-22272E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Japanese-22272E?style=flat-square" />
+</p>
 
 ---
 
-## 🚀 What I’m building / interested in
+## 🎧 Creative side
 
-I’m interested in projects that combine practical engineering, creativity and experimentation.
+<p align="center">
+  <b>Vocaloid · Rhythm Games · Music · Japanese aesthetics · Creative Technology</b>
+</p>
 
-Some areas I like exploring:
-
-- Personal automation tools
-- AI-assisted workflows
-- Web apps and useful utilities
-- Backend systems and database-driven applications
-- Self-hosted services and homelab experiments
-- Raspberry Pi and Linux server projects
-- Game modding, patching and compatibility fixes
-- Music-related tools
-- Creative software
-- Systems, hardware and low-level computing
-- Programming languages focused on performance and control
-
----
-
-## 🎵 Creative side
-
-I also enjoy music, rhythm games, Japanese-inspired aesthetics and creative technology.
-
-I like projects where programming is not only about writing code, but also about solving problems, experimenting and building something with a personal identity.
-
----
-
-## 🌐 Languages
-
-- Spanish
-- English
-- Japanese / 日本語
+<p align="center">
+  I like projects that mix technology, creativity and experimentation.
+</p>
 
 ---
 
 ## 🤝 Collaboration
 
-I'm open to learning from others and collaborating on interesting technical or creative projects.
-
-Best areas for collaboration:
-
-- AI tools
-- Automation
-- Web development
-- Backend development
-- Scripting
-- Linux / systems experiments
-- Game modding / patching
-- Music or creative technology
-- Open-source experiments
+Open to learning, contributing and collaborating on interesting technical or creative projects.
 
 ---
 
 <p align="center">
-  <i>Learning by building, experimenting and staying curious.</i>
-</p>
+  <i>Learning by building. Staying curious.</i>
+</p>>
 
