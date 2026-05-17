@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  ✦ Linux · Web · Backend · AI · Automation · Homelab · 日本語 ✦
+  ✦ Linux · Web · Backend · AI · Automation · Homelab · Computers ✦
 </p>
 
 ---
@@ -49,7 +49,7 @@ Currently focused on building practical skills through projects, experiments and
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=coffeescript&logoColor=ED8B00" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -84,7 +84,7 @@ Currently focused on building practical skills through projects, experiments and
   <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-111827?style=for-the-badge&logo=raspberrypi&logoColor=A22846" />
   <img src="https://img.shields.io/badge/Proxmox-111827?style=for-the-badge&logo=proxmox&logoColor=E57000" />
-  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Windows%2011-111827?style=for-the-badge&logo=windows11&logoColor=0078D4" />
   <img src="https://img.shields.io/badge/macOS-111827?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
@@ -99,38 +99,6 @@ Currently focused on building practical skills through projects, experiments and
 
 ---
 
-## 📚 Currently learning
-
-<p>
-  <img src="https://img.shields.io/badge/Backend-22272E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-22272E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-22272E?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Tools-22272E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rust-22272E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Japanese-22272E?style=flat-square" />
-</p>
-
----
-
-## 🎧 Creative side
-
-<p align="center">
-  <b>Vocaloid · Rhythm Games · Music · Japanese aesthetics · Creative Technology</b>
-</p>
-
-<p align="center">
-  I like projects that mix technology, creativity and experimentation.
-</p>
-
----
-
 ## 🤝 Collaboration
 
 Open to learning, contributing and collaborating on interesting technical or creative projects.
-
----
-
-<p align="center">
-  <i>Learning by building. Staying curious.</i>
-</p>>
-
